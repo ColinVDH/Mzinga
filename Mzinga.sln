@@ -27,9 +27,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mzinga.Engine", "Mzinga.Eng
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mzinga.Test", "Mzinga.Test\Mzinga.Test.csproj", "{B9817AC4-3097-4A72-9A50-D9F56D47AF2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mzinga.Perft", "Mzinga.Perft\Mzinga.Perft.csproj", "{3A7F385F-F695-4616-B426-ABAD97188FA8}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Mzinga.Shared\Mzinga.Shared.projitems*{3a664979-a4db-4c05-bd8f-c6a1799624df}*SharedItemsImports = 13
+		Mzinga.Shared\Mzinga.Shared.projitems*{3a7f385f-f695-4616-b426-abad97188fa8}*SharedItemsImports = 4
 		Mzinga.Shared\Mzinga.Shared.projitems*{6273e30d-eaaa-42f3-bcdc-3ad28aeed433}*SharedItemsImports = 4
 		Mzinga.SharedUX\Mzinga.SharedUX.projitems*{766f35b9-dcfc-4358-8a3a-68e61c6d3baa}*SharedItemsImports = 13
 		Mzinga.Shared\Mzinga.Shared.projitems*{9824e8fd-6155-4c02-a3a4-5d39355f01fe}*SharedItemsImports = 4
@@ -75,6 +78,12 @@ Global
 		{B9817AC4-3097-4A72-9A50-D9F56D47AF2C}.Release (Portable)|Any CPU.ActiveCfg = Release|Any CPU
 		{B9817AC4-3097-4A72-9A50-D9F56D47AF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9817AC4-3097-4A72-9A50-D9F56D47AF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A7F385F-F695-4616-B426-ABAD97188FA8}.Debug (Portable)|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7F385F-F695-4616-B426-ABAD97188FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7F385F-F695-4616-B426-ABAD97188FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7F385F-F695-4616-B426-ABAD97188FA8}.Release (Portable)|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7F385F-F695-4616-B426-ABAD97188FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7F385F-F695-4616-B426-ABAD97188FA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,7 +4,6 @@ using System.Windows;
 
 [assembly: AssemblyTitle("Mzinga.Viewer")]
 [assembly: AssemblyDescription("Viewer for Mzinga.")]
-[assembly: AssemblyCopyright("Copyright © 2015-2019 Jon Thysell")]
 
 [assembly: ComVisible(false)]
 
